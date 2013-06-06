@@ -1,0 +1,107 @@
+#page{
+  border: 1px solid #82a055;
+}
+#header {
+      border-top: 0px solid #82a055;
+}
+#mainmenu{
+
+    background: #82a055;
+}
+
+#logo{
+    background: url('../images/TERN-logo.jpg') no-repeat;
+    height: 85px;
+    padding-left: 120px;
+    
+}
+
+#footer{
+    border-top: 1px solid #82a055;
+
+}
+
+div.view{
+    border: 1px solid #82a055;
+}
+
+.portlet-decoration
+{
+    background: #82a055;
+    border-left: 5px solid #82a055;
+}
+
+.portlet-title{
+    color: #000;
+}
+
+.portlet-content{
+    background: #EFEFEF;
+}
+.operations li a, .operations li a:visited{
+    color: #3e4e27;
+}
+.operations li a:hover{
+    background-color: #888;
+    color: #3e4e27;
+}
+
+.tableForm{
+    margin:0;
+    padding:0;
+   
+}
+.tableForm td{
+    padding: 4px 10px 4px 0px;
+
+}
+
+.basic{
+    border: 1px solid #ccc;
+    padding: 5px;
+
+}
+
+.tableForm{
+    width: auto;
+
+}
+
+h3{
+    font-size: 15px;
+    font-weight: bold;
+    color: #3E4E27 ;
+}
+
+#OptionalData{
+    text-decoration: underline;
+}
+
+.advanced{
+    display: none;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.grid-view{
+    padding:0;
+}
+
+div.help{
+    display:none;
+    width: 90%;
+    border: 1px solid #ccc;
+    background-color: #f7f7ba;
+    padding: 3px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+}
+.indent{
+    margin-left: 20px;
+
+}
+span.inputTitle{
+    line-height: 16px;
+    font-size:15px;
+    font-weight: bold;
+}

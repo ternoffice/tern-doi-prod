@@ -1,0 +1,1 @@
+<h2>Your account will be verified and approved by our administrator.</h2>

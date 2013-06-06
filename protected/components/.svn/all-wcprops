@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/127/trunk/protected/components
+END
+CiteANDS.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/127/trunk/protected/components/CiteANDS.php
+END
+helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/122/trunk/protected/components/helper.php
+END
+DataCite2_2.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/122/trunk/protected/components/DataCite2_2.php
+END
+Array2XML.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/107/trunk/protected/components/Array2XML.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/protected/components/Controller.php
+END
+TabularInputManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/protected/components/TabularInputManager.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/83/trunk/protected/components/UserIdentity.php
+END

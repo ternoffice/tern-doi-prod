@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/132/trunk/protected/views/site
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/128/trunk/protected/views/site/error.php
+END
+notadmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/trunk/protected/views/site/notadmin.php
+END
+contact.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/protected/views/site/contact.php
+END
+notenabled.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/trunk/protected/views/site/notenabled.php
+END
+notapproved.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/trunk/protected/views/site/notapproved.php
+END
+emailsend.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13/trunk/protected/views/site/emailsend.php
+END
+loginoption.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/104/trunk/protected/views/site/loginoption.php
+END
+createuser.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/120/trunk/protected/views/site/createuser.php
+END
+individualuser.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/82/trunk/protected/views/site/individualuser.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/protected/views/site/index.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13/trunk/protected/views/site/login.php
+END
