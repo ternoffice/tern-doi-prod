@@ -363,7 +363,12 @@ abstract class BaseDoc extends GxActiveRecord
 			if (!$this->doc_doi)
 			{
 				$doi = $cite->postANDS($this->doc_url, $this->doc_xml, 'mint');
-				if ($doi['doi'] != '' && $doi['doi'] != 'Array')
+                                
+                                $tmp=$doi['xml']{strpos($doi['xml'],'MT')+4};
+                                $t=$doi['xml']{strpos($doi['xml'],'MT')+3};
+                                $code=$t.$tmp;                                
+                                
+				if ($doi['doi'] != '' && $doi['doi'] != 'Array' && (int)$code<5)
 				{
 					$this->setIsNewRecord(false);
 					$this->doc_doi = $doi['doi'];
